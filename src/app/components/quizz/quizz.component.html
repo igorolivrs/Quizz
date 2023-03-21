@@ -19,9 +19,11 @@
     </div>
 
     <div *ngIf=finished class="quizz_results">
-        <h1>O Seu resultado é:</h1>
+        <h1>Você acertou {{ correctAnswers }}/7</h1>
         <p>{{answerSelected}}</p>
+        <button class="quizz_restart" (click)="restartQuizz()">Fazer Novamente</button>
     </div>
+    
 
     <hr>
 

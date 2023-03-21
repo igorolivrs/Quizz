@@ -13,42 +13,73 @@
       },
       {
         "id":2,
-        "question": "Quem você salvaria primeiro ?",
+        "question": "Quantos sócios fundaram a empresa ?",
         "options":[
-          {"id": 1, "name":"Crianças", "alias":"A"},
-          {"id": 2, "name":"Idosos", "alias":"A"},
-          {"id": 3, "name":"Não saberia escolher", "alias":"B"}
+          {"id": 1, "name":"2", "alias":"F"},
+          {"id": 2, "name":"3", "alias":"F"},
+          {"id": 3, "name":"4", "alias":"T"},
+          {"id": 4, "name":"5", "alias":"F"}
         ]
       },
       {
         "id":3,
-        "question": "Qual a sua maior preocupação ao enfretar outro super ser ?",
+        "question": "Em que ano foi lançado o primeiro APP mobile do iFood ?",
         "options":[
-          {"id": 1, "name":"Não destruir prédios", "alias":"B"},
-          {"id": 2, "name":"Socar a cara do inimigo", "alias":"A"},
-          {"id": 3, "name":"Não sujar meu traje", "alias":"A"},
-          {"id": 4, "name":"Não deixar ninguém se ferir", "alias":"B"}
+          {"id": 1, "name":"2011", "alias":"F"},
+          {"id": 2, "name":"2012", "alias":"T"},
+          {"id": 3, "name":"2013", "alias":"F"},
+          {"id": 4, "name":"2014", "alias":"F"}
         ]
       },
       {
         "id":4,
-        "question": "Qual o seu maior foco ?",
+        "question": "A primeira injeção de capital na empresa foi aportado por qual fundo de venture capital ?",
         "options":[
-          {"id": 1, "name":"Ficar rico com poderes", "alias":"A"},
-          {"id": 2, "name":"Salvar a cidade", "alias":"B"}
+          {"id": 1, "name":"Redpoint eventures", "alias":"F"},
+          {"id": 2, "name":"Monashees", "alias":"F"},
+          {"id": 3, "name":"Bossanova Investimentos", "alias":"F"},
+          {"id": 4, "name":"Warehouse", "alias":"T"}
         ]
       },
       {
         "id":5,
-        "question": "Qual o seu apelido de super ser ?",
+        "question": "Em que ano a empresa foi adquirada pela Movile ?",
         "options":[
-          {"id": 1, "name":"O Terrivel", "alias":"A"},
-          {"id": 2, "name":"Amigo da vizinhança", "alias":"B"}
+          {"id": 1, "name":"2013", "alias":"F"},
+          {"id": 2, "name":"2014", "alias":"T"},
+          {"id": 3, "name":"2015", "alias":"F"},
+          {"id": 4, "name":"2016", "alias":"F"}
+        ]
+      },
+      {
+        "id":6,
+        "question": "Em 2018, iFood adquiriu uma startup especializada em conectar entregadores parceiros às empresas que tivessem a necessidade de fazer entregas, qual o nome desta startup?",
+        "options":[
+          {"id": 1, "name":"Ráppido", "alias":"T"},
+          {"id": 2, "name":"Restaurante Web", "alias":"F"},
+          {"id": 3, "name":"Hello Food", "alias":"F"},
+          {"id": 4, "name":"Central do Delivery", "alias":"F"}
+        ]
+      },
+      {
+        "id":7,
+        "question": "Segundo a empresa iFood, Em 2021, atingiu ao número recorde de quantas entregas mensais ?",
+        "options":[
+          {"id": 1, "name":"55 milhões de entregas mensais", "alias":"F"},
+          {"id": 2, "name":"60 milhões de entregas mensais", "alias":"T"},
+          {"id": 3, "name":"65 milhões de entregas mensais", "alias":"F"},
+          {"id": 4, "name":"70 milhões de entregas mensais", "alias":"F"}
         ]
       }
     ],
     "results":{
-      "A": "Você muito provavelmente seria um super vilão!",
-      "B": "Você muito provavelmente seria um super Herói!"
+      "0": "OK, ok, ouve um equívoco!",
+      "1": "Parece que você chutou todas hein!",
+      "2": "Talvez você já tenha ouvido falar do iFood!",
+      "3": "Sei que você pode fazer melhor que isso!",
+      "4": "Não é tão simples quanto parece!",
+      "5": "Parace que você andou estudando um pouco a história da empresa!",
+      "6": "Na trave, mas fizeste um bom trabalho, Parabéns!",
+      "7": "Ora ora, temos um Sherlock Holmes, Parabéns!"
     }
   }

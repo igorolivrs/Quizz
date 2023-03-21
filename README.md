@@ -1,5 +1,9 @@
 # ProjetoBuzzfeed
 
+This project was developed at bootcamp - Potência Tech Angular Developer - Powered by iFood.
+
+The project consists of a BuzzFeed quiz model, where the user answers the questions and at the end receives the result and a message regarding the number of correct answers.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.4.
 
 ## Development server
